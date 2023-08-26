@@ -10,8 +10,8 @@ import com.company.person.Visitor;
 public class Main {
 
     public static void main(String[] args) {
-        Book book = new Book("მეფე ლირი","შექსპირი",123);
-        Book book1 = new Book("მეფე ლირი","შექსპირი",123);
+        Book book = new Book("ტყეების მეფე","დავით ტურაშვილი",123);
+        Book book1 = new Book("ტყეების მეფე","დავით ტურაშვილი",123);
         Book book2 = new Book("მესი","კოლი",229);
 
         Employee employee = new Employee("123456","ki","na",20,990);
