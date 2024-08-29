@@ -17,7 +17,6 @@ The project is structured into several packages:
 ### Person Management
 - **`Person`**: Represents a person with attributes such as personal number, first name, last name, and age.
 - **`Employee`**: Represents an employee with additional attributes such as employee ID.
-- **`Visitor`**: Represents a visitor with additional attributes such as visitor ID.
 - **`ListOfEmployee`**: Manages a list of employees and provides methods to add and remove employees.
 - **`ListOfVisitor`**: Manages a list of visitors and provides methods to add and remove visitors.
 
